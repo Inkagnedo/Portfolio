@@ -15,6 +15,12 @@ img{
     float: left;
 }
 
+.miniports{
+    background-color: #4aaaa5;
+    margin: 20px;
+    border: 50px;
+}
+
 .container{
     background-color: #ffffff;
     height: 500px;  
